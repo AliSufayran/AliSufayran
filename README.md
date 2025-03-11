@@ -6,7 +6,7 @@
 <div align="center"> An applied mathematian interested in Data Sceince, Programming </div>
 <br><br>
 
-- Focused on learning data science and machine learning, and I enjoy integrating mathematics with programming.
+- Focused on learning data science and machine learning, and I enjoy merging mathematical concepts with coding
 - Currently, I'm learning **R**, **Python**, **SQL**, and **Machine Learning**.
 - I also have a creative side, where I sometimes work as a graphic designer and video editor.
 - I'm looking to excel my skills on a real and challenging projects to enhance my abilities.
